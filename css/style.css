@@ -18,3 +18,7 @@ html, body {
 .navbar .nav-item.active {
     font-weight: bold;
 }
+
+.footer .links p {
+    margin-bottom: 0;
+}

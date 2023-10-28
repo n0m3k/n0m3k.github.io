@@ -1,8 +1,5 @@
 $(document).ready(function() {
-
     let currentPath = window.location.pathname;
-
-    console.log(currentPath)
 
     $('.navbar .nav-link').each(function() {
         let linkPath = $(this).attr('href');

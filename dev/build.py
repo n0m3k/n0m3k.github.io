@@ -1,10 +1,10 @@
 import os
 
 # Define the directory to start the search
-root_directory = './'
+root_directory = '/path/to/your/directory'
 
 # Define the string to search for and the file to replace it with
-search_string = 'hans'
+search_string = 'STRING_TO_REPLACE'
 replacement_file = 'replacement.txt'  # File containing the replacement text
 
 # Function to replace the search string with the content of the replacement file

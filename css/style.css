@@ -14,3 +14,7 @@ html, body {
 .container {
     max-width: 960px;
 }
+
+.navbar .nav-item.active {
+    font-weight: bold;
+}

@@ -6,10 +6,8 @@ $(document).ready(function() {
 
         if (currentPath === linkPath) {
             $(this).closest('.nav-item').addClass('active');
-            console.log("active");
         } else {
             $(this).closest('.nav-item').removeClass('active');
-            console.log("remove");
         }
     });
 });

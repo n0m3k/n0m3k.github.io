@@ -22,3 +22,11 @@ html, body {
 footer .links p {
     margin-bottom: 0;
 }
+
+header .bg-light {
+    background-color: rgb(131, 170, 139);
+}
+
+footer.bg-light {
+    background-color: rgb(131, 170, 139);
+}

@@ -30,3 +30,7 @@ header .bg-light {
 footer.bg-light {
     background-color: rgb(131, 170, 139);
 }
+
+.card {
+    height: 100% !important;
+}
